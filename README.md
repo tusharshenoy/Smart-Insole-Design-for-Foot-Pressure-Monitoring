@@ -1,4 +1,4 @@
-# Foot-Pressure-Monitoring-System
+# Smart Insole Design for Foot Pressure Monitoring
 
 ### Title: Smart Insole Design for Foot Pressure Monitoring
 ### 1. Abstract
